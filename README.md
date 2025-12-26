@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/levi/yayekhle" alt="yayekhle's 42 stats" />
+  </a>
+</p>
+
 <!--
 **yayekhle/yayekhle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
